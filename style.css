@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background: rgb(229, 229, 229);
+}
+input{
+    margin: 10px;
+    padding: 10px ;
+}
+button{
+    padding: 8px 15px;
+}
